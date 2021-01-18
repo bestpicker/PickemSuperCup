@@ -1,3 +1,4 @@
+<head><link rel="shortcut icon" type="image/x-icon" href="favicon.ico"></head>
 # pickemsupercup.com
 <div align="center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQeGJuBzbZOTAPveW1rpXYJjrkmT29xZIEDFswSR7N4_sOirVOkvk3nZim0DoR_r5zxuOG7jqQGZ8qt/pubhtml/sheet?headers=false&gid=426812902&range=A2:M15" frameborder="0" scrolling="no" width="324" height="305"></iframe></div>
 <div align="center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQeGJuBzbZOTAPveW1rpXYJjrkmT29xZIEDFswSR7N4_sOirVOkvk3nZim0DoR_r5zxuOG7jqQGZ8qt/pubhtml/sheet?headers=false&gid=649219741&range=F25:V46" frameborder="0" scrolling="no" width="322" height="515"></iframe> 
